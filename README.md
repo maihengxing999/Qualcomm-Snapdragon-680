@@ -1,0 +1,1 @@
+Virtual Python Environment builder,Qualcomm Snapdragon 680,HUAWEI is releasing monthly security updates for flagship models. This security update includes HUAWEI and third-party library patches @maihengxing999
